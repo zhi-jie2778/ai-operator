@@ -4,6 +4,8 @@ AI Operator 是一个 Windows 可执行程序，读取指定窗口画面，交�
 
 > 它会模拟真实键鼠输入，可能违反游戏条款并导致账号被封，首次运行必须阅读并确认《免责声明》与《用户使用协议》，请先判断自己能否接受这些风险，并自行确认所属游戏的用户协议允许此类操作
 
+<img width="1428" height="893" alt="image" src="https://github.com/user-attachments/assets/83cb03ee-d0e7-43ca-b421-c7e7b796149c" />
+
 ## 亮点
 
 - **单文件免安装**：一个 360 KB 的 exe，只依赖系统自带的 .NET Framework 4.8，删掉文件就是卸载
