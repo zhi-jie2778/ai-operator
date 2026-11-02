@@ -1,0 +1,9 @@
+{
+  "latest": "1.5",
+  "minSupported": "0.0",
+  "notes": "稳定性专项：修掉切接管时崩溃、双击图标无反应、配置写坏丢设置、截图失败直接停下等问题，新增看门狗与崩溃日志；出错时弹窗可下载结构化报错清单或直接交给内置 AI 分析，崩溃后下次启动会补弹；新增人设、快速指令热键、思考字幕拖动与缩放、朗读倍速与三种音色来源；一键更新：走 GitHub Releases 接口，点一下下载并替换",
+  "url": "https://github.com/zhi-jie2778/ai-operator/releases/latest",
+  "assetUrl": "https://github.com/zhi-jie2778/ai-operator/releases/download/v1.5/AI-Operator-v1.5-win64.exe",
+  "assetSize": 507392,
+  "assetSha": "99DE74CA88D725B791EB4DA4C5F812C596AC6417674C660363F0D59DA387A526"
+}
