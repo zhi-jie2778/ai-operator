@@ -8,6 +8,7 @@
 
 ## 页面截图
 <img width="1432" height="897" alt="image" src="https://github.com/user-attachments/assets/771a027b-9d13-4915-a28a-75f985a432d5" />
+
 ## 运行要求
 
 - Windows 10 / 11，64 位系统
